@@ -1,6 +1,6 @@
 import { ProjectList } from './App/ProjectList.js';
 
-globalThis.AUTHOR_NAME = 'Mohamed Fadl';
+globalThis.AUTHOR_NAME = 'Mohamed Fadl <mohamed.fadl@mail.com>';
 
 class App {
   static init() {
