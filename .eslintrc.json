@@ -19,6 +19,6 @@
       "error",
       "last"
     ],
-    "no-undef": "error"
+    "no-undef": "off"
   }
 }

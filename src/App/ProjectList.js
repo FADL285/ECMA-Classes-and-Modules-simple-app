@@ -16,7 +16,6 @@ export class ProjectList {
   }
 
   connectDroppable() {
-    // eslint-disable-next-line no-undef
     console.log(AUTHOR_NAME);
 
     const list = document.querySelector(`#${this.type}-projects ul`);
